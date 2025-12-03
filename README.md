@@ -1,6 +1,6 @@
 # 6-DOF-Robotic-Arm
 
-
+<img width="318" height="483" alt="Image" src="https://github.com/user-attachments/assets/8913a520-c5ba-44ff-9732-2c5dba36801d" />
 
 ## Description
 
