@@ -78,4 +78,4 @@ Electronics:
 ---
 ## Author's Note
 
-This arm supports a wide range of uses. I wired mine to an Arduino and programmed the servos so it could act as a third-arm during soldering and assembly work. The exact behavior of the arm can be customized based on personal preference and code modifications, allowing users to adapt it for whatever they desire.
+This arm supports a wide range of uses. It was orginally created to understand the fundamentals of inverse kinematics and develop my skills in mechatronics. Currently, my arm is wired to an Arduino and programmed the servos so it could act as a third-arm during soldering and assembly work. The exact behavior of the arm can be customized based on personal preference and code modifications, allowing users to adapt it for whatever they desire. I hope you enjoy!
