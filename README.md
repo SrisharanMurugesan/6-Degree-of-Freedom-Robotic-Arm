@@ -1,8 +1,13 @@
 # 6-DOF-Robotic-Arm
 
-<img width="318" height="483" alt="Image" src="https://github.com/user-attachments/assets/8913a520-c5ba-44ff-9732-2c5dba36801d" />
-<img width="433" height="506" alt="Image" src="https://github.com/user-attachments/assets/7036efdd-bf5c-4039-b211-ee9535fa64f3" />
-<img width="409" height="554" alt="Image" src="https://github.com/user-attachments/assets/668e6aa9-8bb5-45c6-83c1-4ac0cce05087" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8913a520-c5ba-44ff-9732-2c5dba36801d" width="40%">
+  <img src="https://github.com/user-attachments/assets/7036efdd-bf5c-4039-b211-ee9535fa64f3" width="40%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/668e6aa9-8bb5-45c6-83c1-4ac0cce05087" width="50%">
+</p>
 
 ## Description
 
