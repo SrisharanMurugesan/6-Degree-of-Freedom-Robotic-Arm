@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/668e6aa9-8bb5-45c6-83c1-4ac0cce05087" width="50%">
-  <img src="https://github.com/user-attachments/assets/7036efdd-bf5c-4039-b211-ee9535fa64f3" width="50%">
+  <img src="https://github.com/user-attachments/assets/668e6aa9-8bb5-45c6-83c1-4ac0cce05087" width="45%">
+  <img src="https://github.com/user-attachments/assets/7036efdd-bf5c-4039-b211-ee9535fa64f3" width="45%">
 </p>
 
 ## Description
